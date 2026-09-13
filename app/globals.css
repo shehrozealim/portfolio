@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  /* Using Outfit gives it that premium Next.js / Vercel website feel */
+  font-family: 'Outfit', sans-serif;
+  background-color: #050505;
+}
+
+code, .font-mono {
+  font-family: 'JetBrains Mono', monospace;
+}
