@@ -3,7 +3,7 @@ import { Analytics } from '@vercel/analytics/next';
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://portfolio-tau-sepia-67.vercel.app/"),
+  metadataBase: new URL("https://shehroze-malik.vercel.app/"),
   title: {
     default: "Shehroze Malik — Full-Stack & Systems Engineer",
     template: "%s | Shehroze Malik",
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     "TypeScript",
     "Web Developer Portfolio",
   ],
-  authors: [{ name: "Shehroze Malik", url: "https://portfolio-tau-sepia-67.vercel.app/" }],
+  authors: [{ name: "Shehroze Malik", url: "https://shehroze-malik.vercel.app/" }],
   creator: "Shehroze Malik",
   publisher: "Shehroze Malik",
   formatDetection: {
