@@ -44,7 +44,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://portfolio-tau-sepia-67.vercel.app/",
+    url: "https://shehroze-malik.vercel.app/",
     title: "Shehroze Malik — Full-Stack & Systems Engineer",
     description:
       "Architecting scalable full-stack applications with high-performance backends and interactive UI frameworks.",
@@ -66,7 +66,7 @@ export const metadata: Metadata = {
   },
 
   alternates: {
-    canonical: "https://portfolio-tau-sepia-67.vercel.app/",
+    canonical: "https://shehroze-malik.vercel.app/",
   },
 };
 
